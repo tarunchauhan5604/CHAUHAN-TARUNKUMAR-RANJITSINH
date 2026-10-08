@@ -1,0 +1,6 @@
+{
+  "name": "Daily Calculator Hub",
+  "description": "Smart Calculators for Everyday Life. Instant, intelligent calculations for EMI, loans, GST, health metrics, and unit conversions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,10 @@
+{
+  "short_name": "Calculator Hub",
+  "name": "Daily Calculator Hub",
+  "icons": [],
+  "start_url": "/",
+  "background_color": "#ffffff",
+  "theme_color": "#0284c7",
+  "display": "standalone",
+  "orientation": "portrait"
+}
